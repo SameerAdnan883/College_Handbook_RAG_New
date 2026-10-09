@@ -1,0 +1,26 @@
+question_id,question,expected_answer_keywords,category,chapter
+Q01,What is the minimum attendance percentage required to appear in end-semester examinations?,"75%, 75 percent",attendance,Chapter 2
+Q02,What happens if a student's attendance falls below 60%?,"automatic F grade, repeat course, next academic year",attendance,Chapter 2
+Q03,How many days does a student have to submit a medical leave application after rejoining?,"5 working days, 5 days",attendance,Chapter 2
+Q04,What is the maximum attendance condonation allowed for medical reasons?,"10 percent, 10%",attendance,Chapter 2
+Q05,What is the total marks distribution for end-semester examination evaluation?,"MSE 30, ESE 50, CIA 20, total 100",examination,Chapter 3
+Q06,What grade is given for a score between 80 and 89 percent?,"A+, Excellent, 9 grade points",examination,Chapter 3
+Q07,What is the fine for overdue library books?,"5 rupees per book per day, ₹5 per book per day",library,Chapter 5
+Q08,How many books can an undergraduate student borrow from the library at one time?,"4 books, up to 4",library,Chapter 5
+Q09,What are the library timings on Sundays?,"10 AM to 6 PM, 10:00 AM – 6:00 PM",library,Chapter 5
+Q10,What is the annual tuition fee for students at Greenfield University?,"₹1,20,000, 1 lakh 20 thousand",fees,Chapter 4
+Q11,What is the late fee penalty for delayed payment?,"₹100 per day, 100 rupees per day",fees,Chapter 4
+Q12,What percentage fee refund is given if a student withdraws within 30 days of commencement?,"80% refund, 80 percent",fees,Chapter 4
+Q13,How many workstations are available across all computer laboratories?,"360 workstations, 360",computer lab,Chapter 6
+Q14,What is the free printing quota per student per semester?,"200 pages, 200 sheets",computer lab,Chapter 6
+Q15,What is the daily free Wi-Fi data limit for students on campus?,"10 GB per day, 10 gigabytes",computer lab,Chapter 6
+Q16,What services does the Career Development Centre provide?,"resume building, mock interviews, placement drives, internship",student support,Chapter 7
+Q17,What is the plagiarism similarity index threshold that triggers an automatic failure?,"40 percent, above 40%",conduct,Chapter 9
+Q18,What is the supplementary examination fee per paper?,"₹500, 500 rupees",examination,Chapter 3
+Q19,What is the hostel in-time on weekdays?,"10:00 PM, 10 PM",hostel,Chapter 8
+Q20,What support does the Disability Support Office provide for students during examinations?,"extended exam time, 50% additional time, 50 percent extra time",student support,Chapter 7
+Q21,How long does the university take to declare results after the last examination?,"30 working days",examination,Chapter 3
+Q22,What is the cost for answer-sheet revaluation per paper?,"₹300, 300 rupees",examination,Chapter 3
+Q23,What is the double occupancy hostel room fee per year?,"₹36,000, 36000",fees,Chapter 4
+Q24,How many books can a research scholar borrow from the library?,"10 books, up to 10",library,Chapter 5
+Q25,What action is taken for a third examination malpractice offence?,"expulsion, expelled from university",examination,Chapter 3

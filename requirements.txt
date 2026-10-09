@@ -1,0 +1,38 @@
+# College Handbook RAG — Python Dependencies
+# Install with: pip install -r requirements.txt
+# Python 3.10+ recommended
+
+# ─── Core LangChain stack ─────────────────────────────────────────────────────
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-google-genai>=1.0.0
+langsmith>=0.1.0
+
+# ─── Vector stores ────────────────────────────────────────────────────────────
+faiss-cpu>=1.7.4
+chromadb>=0.5.0
+
+# ─── Embeddings / LLM ─────────────────────────────────────────────────────────
+google-generativeai>=0.7.0
+
+# ─── Reranking ────────────────────────────────────────────────────────────────
+sentence-transformers>=2.7.0
+torch>=2.0.0          # CPU-only is fine; sentence-transformers needs it
+
+# ─── Document loading ─────────────────────────────────────────────────────────
+pypdf>=4.0.0
+reportlab>=4.2.0      # used to generate the fictional handbook PDF
+
+# ─── Web application ──────────────────────────────────────────────────────────
+streamlit>=1.35.0
+plotly>=5.22.0
+pandas>=2.0.0
+
+# ─── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+numpy>=1.26.0
+
+# ─── Testing ──────────────────────────────────────────────────────────────────
+pytest>=8.0.0
+pytest-mock>=3.12.0
